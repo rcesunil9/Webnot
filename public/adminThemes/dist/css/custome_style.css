@@ -1,0 +1,27 @@
+.btn-indigo{
+	background: #6610f2 !important;
+	color: white;
+}
+.btn-outline-indigo{
+	border: 1px solid #6610f2 !important;
+	color: #6610f2;
+}
+
+.btn-outline-indigo:hover{
+	background: #6610f2 !important;
+	color: white;
+}
+.text-cap{
+	text-transform: capitalize !important;
+}
+.btn-delete{
+	border: none;
+	background: transparent;
+}
+.text-lower{
+	text-transform: lowercase !important;
+}
+
+.p05em{
+	padding: 0.5em !important;
+}
